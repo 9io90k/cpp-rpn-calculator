@@ -55,14 +55,17 @@
 ## Зависимости
 
 Только стандартная библиотека C++:
-- '<string>'
-- '<vector>'
-- '<stack>'
-- '<stdexcept>'
-- '<cctype>'
-- '<cmath>'
-- '<unordered_map>'
-- '<functional>'
+
+```cpp
+#include <string>
+#include <vector>
+#include <stack>
+#include <stdexcept>
+#include <cctype>
+#include <cmath>
+#include <unordered_map>
+#include <functional>
+```
 
 ---
 
@@ -70,6 +73,8 @@
 
 Проект использует CMake.
 
+
+```sh
 mkdir build
 cd build
 cmake ..
@@ -77,6 +82,7 @@ cmake --build
 
 Запуск:
 ./calc
+```
 
 ---
 
