@@ -55,15 +55,16 @@
 ## Зависимости
 
 Только стандартная библиотека C++:
-- <string>
-- <vector>
-- <stack>
-- <stdexcept>
-- <cctype>
-- <cmath>
-- <unordered_map>
-- <functional>
-  ---
+- '<string>'
+- '<vector>'
+- '<stack>'
+- '<stdexcept>'
+- '<cctype>'
+- '<cmath>'
+- '<unordered_map>'
+- '<functional>'
+
+---
 
 ## Сборка
 
